@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="weather">Weather</string>
+    <string name="humidity_icons">Pressure Icon</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="search">Search</string>
+    <string name="applogo">AppLogo</string>
+</resources>
