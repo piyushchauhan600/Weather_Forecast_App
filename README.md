@@ -1,15 +1,3 @@
-<!-- Add custom styles for headings and text -->
-<style>
-h1 {
-    color: #2c3e50; /* Unique color for main heading */
-}
-h2 {
-    color: #16a085; /* Unique color for subheadings */
-}
-p, li {
-    color: #34495e; /* Unique color for text */
-}
-</style>
 
 # Weatherforecast
 
@@ -18,8 +6,9 @@ Weatherforecast is an up-to-date weather forecasting app that provides weather f
 ## Screenshots
 
 ## HomeScreen
-<div align="center">
-    <img src="https://path_to_your_home_screen_image" />
+<div align=![Uploading Mainscreen.png…]()
+"center">
+    
 </div>
 
 ## UI
