@@ -78,7 +78,7 @@ To install and run the Weatherforecast app, follow these steps:
 
 ## Prerequisites
 
-- A mobile device running Android or iOS.
+- A mobile device running Android.
 - Internet connection to fetch the latest weather updates.
 
 ## Contributing
