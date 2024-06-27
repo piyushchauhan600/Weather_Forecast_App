@@ -8,19 +8,18 @@ Weatherforecast is an up-to-date weather forecasting app that provides weather f
 ## HomeScreen
 
 <div align="center">
-    
     ![mainscreen](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/a4485569-0dfb-40f8-bba3-a536325aeeae)
-    
 </div>
 
-## UI
+## Favourite cities
 <div align="center">
-    <img src="https://path_to_your_ui_image" />
+    ![favourite](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/8e5dcd43-752c-44d5-a398-7c386b1f9b5a)
+
 </div>
 
 ## Settings
 <div align="center">
-    <img src="https://path_to_your_settings_image" />
+    ![setting](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/e2fb9233-5daa-463d-9ebc-beb265d0c2b4)
 </div>
 
 ## Description
