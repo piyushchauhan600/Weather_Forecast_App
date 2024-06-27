@@ -8,7 +8,7 @@ Weatherforecast is an up-to-date weather forecasting app that provides weather f
 ## HomeScreen
 
 <div align="center">
-  <img src =![mainscreen](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/a4485569-0dfb-40f8-bba3-a536325aeeae)>
+    <img src="https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/a4485569-0dfb-40f8-bba3-a536325aeeae" alt="mainscreen">
 </div>
 
 ## Favourite cities
