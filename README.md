@@ -5,12 +5,10 @@ Weatherforecast is an up-to-date weather forecasting app that provides weather f
 
 ## Screenshots
 
-## Home![Mainscreen](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/b6fd0910-d28b-4f81-9449-b6da0d91c01f)
-Screen
+## HomeScreen
 
-"center">
-    
-</div>
+![mainscreen](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/4c6958e1-5a45-4be1-aad1-abc7aac85855)
+
 
 ## UI
 <div align="center">
