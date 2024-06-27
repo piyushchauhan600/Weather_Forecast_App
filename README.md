@@ -54,7 +54,7 @@ To install and run the Weatherforecast app, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/weatherforecast.git
+    https://github.com/piyushchauhan600/Weather_Forecast_App.git
     ```
 2. **Navigate to the project directory:**
     ```bash
