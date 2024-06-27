@@ -13,13 +13,13 @@ Weatherforecast is an up-to-date weather forecasting app that provides weather f
 
 ## Favourite cities
 <div align="center">
-    ![favourite](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/8e5dcd43-752c-44d5-a398-7c386b1f9b5a)
+   <img src= "https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/8e5dcd43-752c-44d5-a398-7c386b1f9b5a" alt="favouritecities>
 
 </div>
 
 ## Settings
 <div align="center">
-    ![setting](https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/e2fb9233-5daa-463d-9ebc-beb265d0c2b4)
+    <img src = "https://github.com/piyushchauhan600/Weather_Forecast_App/assets/170570912/e2fb9233-5daa-463d-9ebc-beb265d0c2b4" alt="setting">
 </div>
 
 ## Description
